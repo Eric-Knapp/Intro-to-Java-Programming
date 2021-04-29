@@ -15,12 +15,12 @@ public class CourseInformation {
 		String classTime;
 		
 		courseNumber = scnr.nextLine();
-        courseTitle = scnr.nextLine();
+        	courseTitle = scnr.nextLine();
 		courseNumber2 = scnr.nextLine();
-        courseTitle2 = scnr.nextLine();
-        instructorName = scnr.nextLine();
-        term = scnr.nextLine();
-        classTime = scnr.nextLine();
+       	 	courseTitle2 = scnr.nextLine();
+        	instructorName = scnr.nextLine();
+        	term = scnr.nextLine();
+        	classTime = scnr.nextLine();
         
 
         
